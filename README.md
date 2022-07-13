@@ -8,7 +8,7 @@ All the images have resolution of 5184x3456.
 - TestX: 4 summer images
 
 ## Credit
-Ming-Yang Ho ([Kaminyou](https://kaminyou.com/)). All the photos were taken in Kyoto.
+Ming-Yang Ho ([Kaminyou](https://kaminyou.com/)). All photos were taken in Kyoto.
 
 ## Usage
 Please refer to [Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization (ECCV 2022)](https://github.com/Kaminyou/URUST) repository for the details.
