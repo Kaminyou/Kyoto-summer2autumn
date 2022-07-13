@@ -1,4 +1,4 @@
-# Kyoto_summer2autumn
+# Kyoto-summer2autumn
 This is the official repository of high resolution Kyoto summer2autumn dataset used in **Ultra-resolution unpaired stain transformation via Kernelized Instance Normalization (ECCV 2022)**
 
 ## Description
